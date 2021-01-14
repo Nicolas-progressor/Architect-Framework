@@ -1,0 +1,12 @@
+{
+    "default": "index",    
+    
+    "routes": {
+        "index": {
+            "module": "passport",
+            "controller": "logout",
+            "action": "index",
+            "var_remap": true
+        }
+    }
+}

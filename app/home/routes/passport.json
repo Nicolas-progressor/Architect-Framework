@@ -1,0 +1,31 @@
+{
+    "default": "index",    
+    
+    "routes": {
+        "index": {
+            "module": "passport",
+            "controller": "view",
+            "action": "index",
+            "var_remap": true
+        },
+        "login": {
+            "module": "passport",
+            "controller": "login",
+            "action": "index",
+            "var_remap": true
+        },
+        "logout": {
+            "module": "passport",
+            "controller": "logout",
+            "action": "index",
+            "var_remap": true
+        },
+        "save": {
+            "module": "passport",
+            "controller": "save",
+            "action": "index",
+            "var_remap": true,
+            "NoTempload": true
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "database": {
+        "default": {
+            "database": "dfl",
+            "engine":"medoo"
+        }
+    },
+    "db_dfl": {
+        "engine": "medoo",
+        "db_type": "mysql",
+        "db_host": "localhost",
+        "db_name": "arcred",
+        "db_user": "root",
+        "db_pass": "root",
+        "db_charset": "utf8",
+        "port": 3306
+    }
+    
+}

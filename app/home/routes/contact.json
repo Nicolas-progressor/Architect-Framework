@@ -1,0 +1,12 @@
+{
+    "default": "index",    
+    
+    "routes": {
+        "index": {
+            "module": "home",
+            "controller": "contacts",
+            "action": "index",
+            "var_remap": true
+        }
+    }
+}

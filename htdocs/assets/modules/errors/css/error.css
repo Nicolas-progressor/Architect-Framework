@@ -1,0 +1,16 @@
+#error{
+    text-align: center;
+}
+
+#error h3{
+    margin-top: 30px;
+}
+
+#error img{
+    margin: 30px;
+}
+
+#error p{
+    font-size: 14pt;
+    margin-bottom: 30px;
+}

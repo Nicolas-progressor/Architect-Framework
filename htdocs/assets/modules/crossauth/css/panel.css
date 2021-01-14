@@ -1,0 +1,13 @@
+.crossauth_center{
+    display: table;
+    margin-top: 5px;
+    max-width: 700px;
+    background: #f7f7f9;
+    border: 1px solid #e1e1e8;
+    padding: 20px;
+}
+
+.crossauth_button img{
+    margin: 5px;    
+    width: 50px;
+}

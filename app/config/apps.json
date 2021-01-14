@@ -1,0 +1,8 @@
+{
+    "app_routing": true,
+    "apps": {
+        "home": "home",
+        "administrator": "admin"
+    },
+    "default": "home"
+}

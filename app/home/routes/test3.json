@@ -1,0 +1,14 @@
+{
+    "default": "index",    
+    "ToDefault": true,
+    
+    "routes": {
+        "index": {
+            "module": "test3",
+            "controller": "index",
+            "action": "index",
+            "NoTempload": true,
+            "var_remap": true
+        }
+    }
+}

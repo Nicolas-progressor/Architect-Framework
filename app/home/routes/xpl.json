@@ -1,0 +1,41 @@
+{
+    "default": "index",
+    "toDefault": false,
+    "routes": {
+        "index": {
+            "module": "xpl",
+            "controller": "index",
+            "action": "index",
+            "var_remap": true,
+            "NoTempload": false
+        },
+        "editlang": {
+            "module": "xpl",
+            "controller": "editlang",
+            "action": "index",
+            "var_remap": true,
+            "NoTempload": false
+        },
+        "dictionaryrenew": {
+            "module": "xpl",
+            "controller": "dictionaryrenew",
+            "action": "index",
+            "var_remap": true,
+            "NoTempload": true
+        },
+        "save": {
+            "module": "xpl",
+            "controller": "save",
+            "action": "index",
+            "var_remap": true,
+            "NoTempload": true
+        },
+        "save_file": {
+            "module": "xpl",
+            "controller": "save_file",
+            "action": "index",
+            "var_remap": true,
+            "NoTempload": true
+        }
+    }
+}

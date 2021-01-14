@@ -1,0 +1,20 @@
+.input-group {
+    margin-bottom: 15px;    
+}
+
+.form-signin {
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-bottom: 15px;    
+}
+
+.login_center{
+    max-width: 600px;
+    background: #f7f7f9;
+    border: 1px solid #e1e1e8;
+    padding: 20px;
+}
+
+.login_center{
+    margin-top: 5%;
+}
